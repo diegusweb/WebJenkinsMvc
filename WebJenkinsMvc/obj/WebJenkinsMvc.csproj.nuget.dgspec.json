@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj": {}
+    "d:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj": {}
   },
   "projects": {
-    "D:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj": {
+    "d:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj",
+        "projectUniqueName": "d:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj",
         "projectName": "WebJenkinsMvc",
-        "projectPath": "D:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj",
+        "projectPath": "d:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\obj\\",
+        "outputPath": "d:\\Development\\2021\\net\\WebJenkinsMvc\\WebJenkinsMvc\\WebJenkinsMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
